@@ -33,7 +33,7 @@ To further enhance the dataset for analysis, new columns were extracted based on
 
 ## Summary of Findings
 **Sales Trends**:
-  * A total of **31.653** tickets were sold, generating **£741,921** in revenue. The average ticket price was **£23**.
+  * A total of **31.653** tickets were sold, generating **£741.921** in revenue. The average ticket price was **£23**.
   * Sales were evenly spread across the four months, with January and March slightly outperforming February and April. Sales also remained consistent across the week, but with increases on Fridays and Weekends, indicating consistent daily commuting and leisure use.
   * Hourly sales are high in the mornings at 06:00 - 09:00 and gradually decline afterwards. The sales hit their peak at **17:00** and **20:00**, which aligns with daily commute cycles. This pattern shows opportunities for dynamic pricing and staff planning.
   ![EXCEL_ObuqtYg7hf](https://github.com/user-attachments/assets/a4893bee-855b-45ed-b3f8-5f4d7969170a)
